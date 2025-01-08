@@ -27,9 +27,8 @@ A simple web application that fetches and displays random dad jokes using JavaSc
 ## Installation
 
 1. Clone the repository
-2. Insert Code
-3. Navigate to the project directory
-4. Open the \`index.html\` file in your browser
+2. Navigate to the project directory
+3. Open the \`index.html\` file in your browser
 
 ## Usage
 
